@@ -1,7 +1,10 @@
-/* Primary stylesheet for the San Joaquin Valley Town Hall website Author: Michael Oldham */
+/* this is a single line comment*/
 /*
-this
-is 
-a 
+this 
+is
+a
 multi-line
-.content { background-color: blue /* 
+comment
+*/
+.content { background-color: blue; /* "blu" is not a valid color value. It should be "blue". */ }
+    body{background-color: green;}}
